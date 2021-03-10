@@ -7,3 +7,8 @@
 * Lire Kent "Test driven development by example".
 * D essaie de donner des activités aux élèves pour recolter déjà des productions élèves (si jamais).
 * Ajoute des commentaires des livres dans un bibliographie, au cas ils sont eventuellement utile.
+* Quels seront les *key takeaways* de notre présentation ? Les idées clés ?
+  * "Testing is the process of executing a program with the intent of finding errors." (Myers)
+  * "Whenever we use software, we incur some risk... The entire development team wants the same thing – to reduce the risk of using the software." (Ammann and Offutt).
+  * Test often and early.
+  * Designing tests helps with designing the solution.
